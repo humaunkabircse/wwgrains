@@ -1,0 +1,1390 @@
+<!DOCTYPE html>
+<html class="" lang="en"><head>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+		<meta charset="utf-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<title>Florona - Garden and Landscape Design Company | Florona Gardening HTML Bootstrap4 Responsive Template</title>
+		<link rel="shortcut icon" type="image/x-icon" href="http://theembazaar.com/demo/themejio/florona/favicon.ico">
+		<link href="fontawesome-webfont_files/css.css" rel="stylesheet">
+		<link href="fontawesome-webfont_files/bootstrap.css" rel="stylesheet" type="text/css">
+		<link href="fontawesome-webfont_files/owl.css" rel="stylesheet" type="text/css">
+		<link href="fontawesome-webfont_files/font-awesome.css" rel="stylesheet" type="text/css">
+		<link href="fontawesome-webfont_files/ionicons.css" rel="stylesheet" type="text/css">
+		<link href="fontawesome-webfont_files/flaticon.css" rel="stylesheet" type="text/css">
+		<link href="fontawesome-webfont_files/simple-line-icons.css" rel="stylesheet" type="text/css">
+
+		<link href="fontawesome-webfont_files/jquery-ui.css" type="text/css" rel="stylesheet">
+		<link href="fontawesome-webfont_files/jquery.css" rel="stylesheet" type="text/css">
+		<!--Main Slider-->
+		<link href="fontawesome-webfont_files/settings.css" type="text/css" rel="stylesheet" media="screen">
+		<link href="fontawesome-webfont_files/layers.css" type="text/css" rel="stylesheet" media="screen">
+
+		<link href="fontawesome-webfont_files/style.css" type="text/css" rel="stylesheet">
+		<link href="fontawesome-webfont_files/index.css" type="text/css" rel="stylesheet">
+		<link href="fontawesome-webfont_files/header.css" type="text/css" rel="stylesheet">
+		<link href="fontawesome-webfont_files/footer.css" type="text/css" rel="stylesheet">
+		<link href="fontawesome-webfont_files/default.css" rel="stylesheet" type="text/css" id="theme-color">
+
+	<style type="text/css">.fancybox-margin{margin-right:17px;}</style></head>
+	<body>
+		<!--loader-->
+		<div id="preloader" style="display: none;">
+			<div class="sk-circle">
+				<div class="sk-circle1 sk-child"></div>
+				<div class="sk-circle2 sk-child"></div>
+				<div class="sk-circle3 sk-child"></div>
+				<div class="sk-circle4 sk-child"></div>
+				<div class="sk-circle5 sk-child"></div>
+				<div class="sk-circle6 sk-child"></div>
+				<div class="sk-circle7 sk-child"></div>
+				<div class="sk-circle8 sk-child"></div>
+				<div class="sk-circle9 sk-child"></div>
+				<div class="sk-circle10 sk-child"></div>
+				<div class="sk-circle11 sk-child"></div>
+				<div class="sk-circle12 sk-child"></div>
+			</div>
+		</div>
+
+		<!--loader-->
+		<!--Header Section Start Here
+		==================================-->
+
+		<!--Section End Here-->
+
+		<!-- header Start -->
+		<header id="header" class="header">
+
+			<div class="nav-wrap">
+				<div class="container">
+					<div class="top_info ptb-15">
+						<div class="row d-flex justify-content-between">
+							<div class="col-md-3">
+								<div class="logo">
+									<a href="http://theembazaar.com/demo/themejio/florona/index.html"><img src="fontawesome-webfont_files/logo.png" alt=""></a>
+								</div>
+								<!-- Phone Menu button -->
+								<button id="menu" class="menu hidden-md-up"></button>
+							</div>
+							<div class="col-md-5 d-flex aling-items-center">
+								<div class="call_now">
+									<i class="ion-ios-telephone-outline"></i>
+									<span> <a href="tel:123 456 7890">Call Us- +123 456 7890</a></span>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="row">
+
+						<div class="col-md-12 nav-bg">
+							<div class="nav_bg_color">
+								<nav class="navigation">
+									<ul class="mobile-menu d-md-flex justify-content-around">
+										<li>
+											<a href="#!">Home</a><i class="ion-ios-plus-empty hidden-md-up"></i>
+											<ul class="sub-nav">
+												<li>
+													<a href="http://theembazaar.com/demo/themejio/florona/index.html">Home Page 1</a>
+												</li>
+												<li>
+													<a href="http://theembazaar.com/demo/themejio/florona/index1.html">Home Page 2</a>
+												</li>
+												<li>
+													<a href="http://theembazaar.com/demo/themejio/florona/index2.html">Home Page 3</a>
+												</li>
+
+											</ul>
+										</li>
+										<li>
+											<a href="#!">About us</a><i class="ion-ios-plus-empty hidden-md-up"></i>
+											<ul class="sub-nav">
+												<li>
+													<a href="http://theembazaar.com/demo/themejio/florona/about.html">About</a>
+												</li>
+												<li>
+													<a href="http://theembazaar.com/demo/themejio/florona/about2.html">About 2</a>
+												</li>
+												<li>
+													<a href="http://theembazaar.com/demo/themejio/florona/about3.html">About 3</a>
+												</li>
+												<li>
+													<a href="http://theembazaar.com/demo/themejio/florona/history.html">history</a>
+												</li>
+												<li>
+													<a href="http://theembazaar.com/demo/themejio/florona/career.html">career</a>
+												</li>
+												<li>
+													<a href="http://theembazaar.com/demo/themejio/florona/partnerships.html">partnerships</a>
+												</li>
+												<li>
+													<a href="http://theembazaar.com/demo/themejio/florona/leadership.html">leadership</a>
+												</li>
+											</ul>
+										</li>
+										<li>
+											<a href="javascript:avoid(0);">services</a><i class="ion-ios-plus-empty hidden-md-up"></i>
+											<ul class="sub-nav">
+
+												<li>
+													<a href="http://theembazaar.com/demo/themejio/florona/services.html">Services</a>
+												</li>
+												<li>
+													<a href="http://theembazaar.com/demo/themejio/florona/services-details.html">Service Details</a>
+												</li>
+
+											</ul>
+										</li>
+										<li>
+											<a href="javascript:avoid(0);">Project</a><i class="ion-ios-plus-empty hidden-md-up"></i>
+											<ul class="sub-nav">
+												<li>
+													<a href="http://theembazaar.com/demo/themejio/florona/project.html">project</a>
+												</li>
+												<li>
+													<a href="http://theembazaar.com/demo/themejio/florona/project-details.html">Projec Details</a>
+												</li>
+
+											</ul>
+										</li>
+										<li>
+											<a href="javascript:avoid(0);">blog</a><i class="ion-ios-plus-empty hidden-md-up"></i>
+											<ul class="sub-nav">
+												<li>
+													<a href="http://theembazaar.com/demo/themejio/florona/blog.html">Blog</a>
+												</li>
+												<li>
+													<a href="http://theembazaar.com/demo/themejio/florona/blog-detail.html">Blog Details</a>
+												</li>
+											</ul>
+										</li>
+										<li>
+											<a href="javascript:avoid(0);">pages</a><i class="ion-ios-plus-empty hidden-md-up"></i>
+											<ul class="sub-nav">
+
+										<li>
+											<a href="http://theembazaar.com/demo/themejio/florona/team.html">Team</a>
+										</li>
+
+										<li>
+											<a href="http://theembazaar.com/demo/themejio/florona/pricing.html">pricing</a>
+										</li>
+										<li>
+											<a href="http://theembazaar.com/demo/themejio/florona/faq.html">Faq</a>
+										</li>
+										<li>
+											<a href="http://theembazaar.com/demo/themejio/florona/register.html">Register</a>
+										</li>
+										<li>
+											<a href="http://theembazaar.com/demo/themejio/florona/login.html">login</a>
+										</li>
+										<li>
+											<a href="http://theembazaar.com/demo/themejio/florona/testimonial.html">Testimonials</a>
+										</li>
+										<li>
+											<a href="http://theembazaar.com/demo/themejio/florona/404.html">404 Error</a>
+										</li>
+										<li>
+											<a href="http://theembazaar.com/demo/themejio/florona/blank.html">blank</a>
+										</li>
+									</ul>
+										</li>
+										<li>
+											<a href="#!">Shop</a><i class="ion-ios-plus-empty hidden-md-up"></i>
+											<!-- Nav Dropdown -->
+											<ul class="sub-nav">
+												<li>
+													<a href="http://theembazaar.com/demo/themejio/florona/shop.html">Shop</a>
+												</li>
+												<li>
+													<a href="http://theembazaar.com/demo/themejio/florona/shop-sidebar.html">shop sidebar</a>
+												</li>
+												<li>
+													<a href="http://theembazaar.com/demo/themejio/florona/shop-details.html">shop details</a>
+												</li>
+												<li>
+													<a href="http://theembazaar.com/demo/themejio/florona/cart.html">cart</a>
+												</li>
+												<li>
+													<a href="http://theembazaar.com/demo/themejio/florona/checkout.html">Checkout</a>
+												</li>
+											</ul>
+											<!-- End Nav Dropdown -->
+										</li>
+										<li>
+											<a href="#!">Contact us</a><i class="ion-ios-plus-empty hidden-md-up"></i>
+											<ul class="sub-nav">
+												<li>
+													<a href="http://theembazaar.com/demo/themejio/florona/contact.html">contact</a>
+												</li>
+												<li>
+													<a href="http://theembazaar.com/demo/themejio/florona/contact2.html">contact 2</a>
+												</li>
+											</ul>
+										</li>
+
+									</ul>
+								</nav>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</header>
+		<!--Header End-->
+
+		<!-- star-banner -->
+		<!--  Main Banner Start Here-->
+		<div class="main-banner">
+			<div class="forcefullwidth_wrapper_tp_banner" style="position:relative;width:100%;height:auto;margin-top:0px;margin-bottom:0px"><div id="rev_slider_34_1_wrapper" class="rev_slider_wrapper tp-mouseover" data-alias="news-gallery34" style="margin-top: 0px; margin-bottom: 0px; position: absolute; max-height: none; overflow: visible; height: 944px; width: 1903px; left: 0px;">
+				<!-- START REVOLUTION SLIDER 5.0.7 fullwidth mode -->
+				<div id="rev_slider_34_1" class="rev_slider revslider-initialised tp-simpleresponsive" data-version="5.0.7" style="max-height: none; margin-top: 0px; margin-bottom: 0px; height: 100%;">
+					<ul class="tp-revslider-mainul" style="visibility: visible; display: block; overflow: hidden; width: 100%; height: 100%; max-height: none;">
+						<!-- SLIDE  -->
+						<li data-index="rs-129" class="tp-revslider-slidesli active-revslide" style="width: 100%; height: 100%; overflow: hidden; z-index: 20; visibility: inherit; opacity: 1; background-color: rgba(255, 255, 255, 0);">
+							<!-- MAIN IMAGE -->
+							<div class="slotholder" style="width: 100%; height: 100%; backface-visibility: hidden; left: 0px; top: 0px; position: absolute; transform: translate3d(0px, 0px, 0px); visibility: inherit; opacity: 1;"><!--Runtime Modification - Img tag is Still Available for SEO Goals in Source - <img src="assets/images/banner/banner1.jpg" alt="" class="rev-slidebg defaultimg">--><div class="tp-bgimg defaultimg" style="background-color: rgba(0, 0, 0, 0); background-repeat: no-repeat; background-image: url(&quot;assets/images/banner/banner1.jpg&quot;); background-size: cover; background-position: center center; width: 100%; height: 100%; opacity: 1; z-index: 20; visibility: inherit; position: inherit; transform: matrix(1, 0, 0, 1, 0, 0);" src="assets/images/banner/banner1.jpg"></div></div>
+							<!-- LAYERS -->
+
+							<!-- LAYER NR. 2 -->
+							<div class="tp-parallax-wrap" style="position: absolute; visibility: visible; left: 432px; top: 390px; z-index: 1;"><div class="tp-loop-wrap" style="position:absolute;"><div class="tp-mask-wrap" style="position: absolute; overflow: hidden; transform: matrix(1, 0, 0, 1, 0, 0); height: auto; width: auto;"><div class="tp-caption Newspaper-Title tp-resizeme" id="slide-129-layer-1" data-x="['left','left','left','left']" data-hoffset="['100','50','50','30']" data-y="['center','center','center','center']" data-voffset="['80','80','50','50']" data-fontsize="['50','50','50','30']" data-lineheight="['55','55','55','35']" data-width="['700','700','700','420']" data-height="none" data-whitespace="normal" data-transform_idle="o:1;" data-transform_in="y:[-100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;s:1500;e:Power3.easeInOut;" data-transform_out="auto:auto;s:1000;e:Power3.easeInOut;" data-mask_in="x:0px;y:0px;s:inherit;e:inherit;" data-mask_out="x:0;y:0;s:inherit;e:inherit;" data-start="1000" data-splitin="none" data-splitout="none" data-responsive_offset="on" style="visibility: inherit; transition: none 0s ease 0s; line-height: 55px; border-width: 0px; margin: 0px; padding: 0px 0px 10px; letter-spacing: 0px; font-weight: 400; font-size: 50px; white-space: normal; min-height: 0px; min-width: 700px; max-height: none; max-width: 700px; opacity: 1; transform: translate3d(0px, 0px, 0px); transform-origin: 50% 50% 0px;">
+								<div class="banner-text" style="transition: none 0s ease 0s; line-height: 55px; border-width: 0px; margin: 0px; padding: 0px; letter-spacing: 0px; font-weight: 400; font-size: 50px;">
+									<span style="transition: none 0s ease 0s; line-height: 26px; border-width: 0px; margin: 0px 0px 5px; padding: 0px; letter-spacing: 2px; font-weight: 500; font-size: 26px;">It's an Amazing Services!</span>
+									<h2 style="transition: none 0s ease 0s; line-height: 58px; border-width: 0px; margin: 0px 0px 10px; padding: 10px 0px; letter-spacing: 0px; font-weight: 600; font-size: 45px;">Let us care &amp; Share your garden</h2>
+
+									<p style="transition: none 0s ease 0s; line-height: 27px; border-width: 0px; margin: 0px 0px 20px; padding: 0px; letter-spacing: 0px; font-weight: 400; font-size: 15px;">
+										Lorem Ipsum is simply dummy text of the printing and 
+typesetting industry Lorem Ipsum has been the industry's standard dummy 
+text ever.
+									</p>
+									<a class="btn-text" href="http://theembazaar.com/demo/themejio/florona/about_us.html" style="transition: none 0s ease 0s; line-height: 50px; border-width: 2px; margin: 0px; padding: 0px 38px; letter-spacing: 1px; font-weight: 700; font-size: 13px;"> read more</a>
+								</div>
+							</div></div></div></div>
+
+						</li>
+						<!-- SLIDE  -->
+						<li data-index="rs-130" data-title="" data-description="" class="tp-revslider-slidesli" style="width: 100%; height: 100%; overflow: hidden;">
+							<!-- MAIN IMAGE -->
+							<div class="slotholder" style="width: 100%; height: 100%; backface-visibility: hidden; left: 0px; top: 0px; position: absolute; transform: translate3d(0px, 0px, 0px);"><!--Runtime Modification - Img tag is Still Available for SEO Goals in Source - <img src="assets/images/banner/banner2.jpg" alt="" class="rev-slidebg defaultimg">--><div class="tp-bgimg defaultimg" style="background-color: rgba(0, 0, 0, 0); background-repeat: no-repeat; background-image: url(&quot;assets/images/banner/banner2.jpg&quot;); background-size: cover; background-position: center center; width: 100%; height: 100%; opacity: 0;" src="assets/images/banner/banner2.jpg"></div></div>
+							<!-- LAYERS -->
+
+							<!-- LAYER NR. 2 -->
+							<div class="tp-parallax-wrap" style="position:absolute;visibility:hidden"><div class="tp-loop-wrap" style="position:absolute;"><div class="tp-mask-wrap" style="position:absolute"><div class="tp-caption Newspaper-Title tp-resizeme" id="slide-129-layer-1" data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']" data-y="['center','center','center','center']" data-voffset="['80','80','50','50']" data-fontsize="['50','50','50','30']" data-lineheight="['55','55','55','35']" data-width="['700','700','700','420']" data-height="none" data-whitespace="normal" data-transform_idle="o:1;" data-transform_in="y:[-100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;s:1500;e:Power3.easeInOut;" data-transform_out="auto:auto;s:1000;e:Power3.easeInOut;" data-mask_in="x:0px;y:0px;s:inherit;e:inherit;" data-mask_out="x:0;y:0;s:inherit;e:inherit;" data-start="1000" data-splitin="none" data-splitout="none" data-responsive_offset="on" style="visibility: hidden;">
+								<div class="banner-text text-center">
+									<span>It's an Amazing Services!</span>
+									<h2>We Provide Best lawn Service</h2>
+
+									<p>
+										Lorem Ipsum is simply dummy text of the printing and 
+typesetting industry Lorem Ipsum has been the industry's standard dummy 
+text ever.
+									</p>
+									<a class="btn-text" href="http://theembazaar.com/demo/themejio/florona/about_us.html"> read more</a>
+								</div>
+							</div></div></div></div>
+
+						</li>
+						<!-- SLIDE  -->
+						<li data-index="rs-131" class="tp-revslider-slidesli" style="width: 100%; height: 100%; overflow: hidden;">
+							<!-- MAIN IMAGE -->
+							<div class="slotholder" style="width: 100%; height: 100%; backface-visibility: hidden; left: 0px; top: 0px; position: absolute; transform: translate3d(0px, 0px, 0px);"><!--Runtime Modification - Img tag is Still Available for SEO Goals in Source - <img src="assets/images/banner/banner3.jpg" alt="" class="rev-slidebg defaultimg">--><div class="tp-bgimg defaultimg" style="background-color: rgba(0, 0, 0, 0); background-repeat: no-repeat; background-image: url(&quot;assets/images/banner/banner3.jpg&quot;); background-size: cover; background-position: center center; width: 100%; height: 100%; opacity: 0;" src="assets/images/banner/banner3.jpg"></div></div>
+							<!-- LAYERS -->
+
+							<!-- LAYER NR. 2 -->
+							<div class="tp-parallax-wrap" style="position:absolute;visibility:hidden"><div class="tp-loop-wrap" style="position:absolute;"><div class="tp-mask-wrap" style="position:absolute"><div class="tp-caption Newspaper-Title tp-resizeme" id="slide-129-layer-1" data-x="['right','right','right','right']" data-hoffset="['100','50','50','30']" data-y="['center','center','center','center']" data-voffset="['80','80','50','50']" data-fontsize="['50','50','50','30']" data-lineheight="['55','55','55','35']" data-width="['700','700','700','420']" data-height="none" data-whitespace="normal" data-transform_idle="o:1;" data-transform_in="y:[-100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;s:1500;e:Power3.easeInOut;" data-transform_out="auto:auto;s:1000;e:Power3.easeInOut;" data-mask_in="x:0px;y:0px;s:inherit;e:inherit;" data-mask_out="x:0;y:0;s:inherit;e:inherit;" data-start="1000" data-splitin="none" data-splitout="none" data-responsive_offset="on" style="visibility: hidden;">
+								<div class="banner-text text-right">
+									<span>It's an Amazing Services!</span>
+									<h2>We Provide Best lawn Service</h2>
+
+									<p>
+										Lorem Ipsum is simply dummy text of the printing and 
+typesetting industry Lorem Ipsum has been the industry's standard dummy 
+text ever.
+									</p>
+									<a class="btn-text" href="http://theembazaar.com/demo/themejio/florona/about_us.html"> read more</a>
+								</div>
+							</div></div></div></div>
+						</li>
+						<!-- SLIDE  -->
+					</ul>
+					<div class="tp-bannertimer tp-bottom" style="width: 16.3222%; visibility: visible; transform: translate3d(0px, 0px, 0px);"></div>
+				<div class="tp-loader off" style="display: none;"><div class="dot1"></div><div class="dot2"></div><div class="bounce1"></div><div class="bounce2"></div><div class="bounce3"></div></div><div class="tp-leftarrow tparrows   noSwipe" style="top: 50%; transform: matrix(1, 0, 0, 1, 50, -20); left: 0px;"></div><div class="tp-rightarrow tparrows   noSwipe" style="top: 50%; transform: matrix(1, 0, 0, 1, -90, -20); left: 100%;"></div></div>
+			</div><div class="tp-fullwidth-forcer" style="width: 100%; height: 944px;"></div></div>
+		</div>
+		<!--  Main Banner End Here-->
+
+		<!-- About_Compney -->
+		<section class="padding ptb-xs-40">
+			<div class="container">
+				<div class="row">
+					<div class="col-lg-8">
+						<div class="about_company">
+							<div class="section_heading left_line mb-60 mb-xs-30">
+								<h2><span>About</span> Our Company</h2>
+							</div>
+							<div class="about_text">
+									<p>
+											Lorem Ipsum is simply dummy text of the printing and 
+typesetting industry. Lorem Ipsum has been the industry's standard dummy
+ text ever since the 1500s, when an unknown printer took a galley of 
+type and scrambled it to make a type specimen book. It has survived not 
+only five centuries, but also the leap into electronic typesetting.
+										</p>
+							</div>
+							<div class="row">
+								<div class="col-md-6 mt-30">
+									<div class="clean_top feature-box">
+										<div class="content">
+											<div class="icon_left_home">
+												<i class="flaticon-leaf"></i>
+											</div>
+											<div class="right_detail">
+												<h5>Specialized Company</h5>
+												<p>
+													Lorem Ipsum is simply dummy text of the printing and industry.
+												</p>
+											</div>
+										</div>
+									</div>
+								</div>
+
+								<div class="col-md-6 mt-30">
+									<div class="clean_top feature-box">
+										<div class="content">
+											<div class="icon_left_home">
+												<i class="flaticon-tick-inside-a-circle"></i>
+											</div>
+											<div class="right_detail">
+												<h5>Licensed &amp; Insured</h5>
+												<p>
+													Lorem Ipsum is simply dummy text of the printing and industry.
+												</p>
+											</div>
+										</div>
+									</div>
+								</div>
+
+								<div class="col-md-6 mt-30 mt-sm-30 mt-xs-30">
+									<div class="clean_top feature-box">
+										<div class="content">
+											<div class="icon_left_home">
+												<i class="flaticon-tachometer"></i>
+											</div>
+											<div class="right_detail">
+												<h5>Dependable Services</h5>
+												<p>
+													Lorem Ipsum is simply dummy text of the printing and industry.
+												</p>
+											</div>
+										</div>
+									</div>
+								</div>
+
+								<div class="col-md-6 mt-30 mt-sm-30 mt-xs-30">
+									<div class="clean_top feature-box">
+										<div class="content">
+											<div class="icon_left_home">
+												<i class="flaticon-trophy"></i>
+											</div>
+											<div class="right_detail">
+												<h5>Reputable Company</h5>
+												<p>
+													Lorem Ipsum is simply dummy text of the printing and industry.
+												</p>
+											</div>
+										</div>
+									</div>
+								</div>
+
+							</div>
+						</div>
+					</div>
+					<div class="col-lg-4 mt-sm-30 mt-xs-30">
+						<div class="form_home light-color">
+							<div class="section_heading  mb-60 mb-xs-30">
+								<h2>Request An Estimate</h2>
+							</div>
+							<!-- Contact FORM -->
+							<form class="quote-form" id="contact">
+								<!-- IF MAIL SENT SUCCESSFULLY -->
+								<div id="success">
+									<div role="alert" class="alert alert-success">
+										<strong>Thanks</strong> for using our template. Your message has been sent.
+									</div>
+								</div>
+								<!-- END IF MAIL SENT SUCCESSFULLY -->
+								<div class="row">
+									<div class="col-md-12">
+										<div class="form-field">
+											<input class="input-sm form-full" id="name" type="text" name="form-name" placeholder="Your Name">
+										</div>
+									</div>
+
+									<div class="col-md-12">
+										<div class="form-field">
+											<input class="input-sm form-full" id="email" type="text" name="form-email" placeholder="Email">
+										</div>
+									</div>
+
+									<div class="col-md-12">
+										<div class="form-field">
+											<input class="input-sm form-full" id="sub" type="text" name="form-subject" placeholder="Subject">
+										</div>
+									</div>
+
+									<div class="col-md-12">
+										<div class="form-field">
+											<textarea class="form-full" id="message" rows="7" name="form-message" placeholder="Your Message"></textarea>
+										</div>
+									</div>
+									<div class="col-md-12 mt-xs-10 mt-15">
+										<button class="bnt btn-text sent-but" type="button" id="submit" name="button">
+											Send
+										</button>
+									</div>
+								</div>
+							</form>
+							<!-- END Contact FORM -->
+
+						</div>
+					</div>
+				</div>
+			</div>
+		</section>
+		<!-- About_Compney_End-->
+
+		<!-- Section -->
+		<section class="padding ptb-xs-40 bg_contact light-color">
+			<div class="container">
+				<div class="row">
+					<div class="col-lg-8 offset-lg-2 text-center call_headding">
+						<h3>Are you looking for professional Gardener for your new Garden?</h3>
+						<div class="contact_info mt-30">
+							<span class="call-us"><i class="ion-ios-telephone-outline"></i>Call us:  +123 456 7890 </span><span>Or</span>
+							<a class="btn btn-text" href="#">Contact us</a>
+						</div>
+					</div>
+				</div>
+			</div>
+		</section>
+		<!-- Section_End -->
+
+		<!-- Service_Section -->
+		<section class="padding ptb-xs-40 gray-bg">
+			<div class="container">
+				<div class="row mb-60 mb-xs-30">
+					<div class="col-md-6">
+						<div class="section_heading left_line mb-xs-30">
+							<h2><span>Our</span> Service</h2>
+						</div>
+					</div>
+					<div class="col-md-6">
+						<div class="section_heading left_line">
+							<p>
+								Lorem Ipsum is simply dummy text of the printing and typesetting
+ industry. Lorem Ipsum has been the 's standard dummy text.
+							</p>
+						</div>
+					</div>
+				</div>
+
+				<div class="row">
+					<div class="col-md-12">
+
+						<div class="service_home_slider nf-carousel-theme owl-carousel owl-theme owl-loaded">
+							
+
+							
+
+							
+
+							
+
+							
+
+							
+
+						<div class="owl-stage-outer"><div class="owl-stage" style="transform: translate3d(-1140px, 0px, 0px); transition: all 0s ease 0s; width: 4560px;"><div class="owl-item cloned" style="width: 350px; margin-right: 30px;"><div class="service_box img-scale">
+								<figure>
+									<img src="fontawesome-webfont_files/img_4.jpg" alt="">
+								</figure>
+								<div class="relative_box">
+									
+									<h3><a href="#!">Garden Design</a></h3>
+									<p>
+										Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the 's standard dummy.
+									</p>
+									<a href="#!" class="btn btn-text mt-15">Read More</a>
+								</div>
+							</div></div><div class="owl-item cloned" style="width: 350px; margin-right: 30px;"><div class="service_box img-scale">
+								<figure>
+									<img src="fontawesome-webfont_files/img_5.jpg" alt="">
+								</figure>
+								<div class="relative_box">
+									
+									<h3><a href="#!">Gutter Repair</a></h3>
+									<p>
+										Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the 's standard dummy.
+									</p>
+									<a href="#!" class="btn btn-text mt-15">Read More</a>
+								</div>
+							</div></div><div class="owl-item cloned" style="width: 350px; margin-right: 30px;"><div class="service_box img-scale">
+								<figure>
+									<img src="fontawesome-webfont_files/img_6.jpg" alt="">
+								</figure>
+								<div class="relative_box">
+									
+									<h3><a href="#!">Lawn Care</a></h3>
+									<p>
+										Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the 's standard dummy.
+									</p>
+									<a href="#!" class="btn btn-text mt-15">Read More</a>
+								</div>
+							</div></div><div class="owl-item active" style="width: 350px; margin-right: 30px;"><div class="service_box img-scale">
+								<figure>
+									<img src="fontawesome-webfont_files/img_1.jpg" alt="">
+								</figure>
+								<div class="relative_box">								
+									<h3><a href="#">Tree Planting</a></h3>
+									<p>
+										Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the 's standard dummy.
+									</p>
+									<a href="#!" class="btn btn-text mt-15">Read More</a>
+								</div>
+							</div></div><div class="owl-item active" style="width: 350px; margin-right: 30px;"><div class="service_box img-scale">
+								<figure>
+									<img src="fontawesome-webfont_files/img_2.jpg" alt="">
+								</figure>
+								<div class="relative_box">
+									
+									<h3><a href="#!">Garden Care</a></h3>
+									<p>
+										Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the 's standard dummy.
+									</p>
+									<a href="#!" class="btn btn-text mt-15">Read More</a>
+								</div>
+							</div></div><div class="owl-item active" style="width: 350px; margin-right: 30px;"><div class="service_box img-scale">
+								<figure>
+									<img src="fontawesome-webfont_files/img_3.jpg" alt="">
+								</figure>
+								<div class="relative_box">
+									
+									<h3><a href="#!">Watering Garden</a></h3>
+									<p>
+										Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the 's standard dummy.
+									</p>
+									<a href="#!" class="btn btn-text mt-15">Read More</a>
+								</div>
+							</div></div><div class="owl-item" style="width: 350px; margin-right: 30px;"><div class="service_box img-scale">
+								<figure>
+									<img src="fontawesome-webfont_files/img_4.jpg" alt="">
+								</figure>
+								<div class="relative_box">
+									
+									<h3><a href="#!">Garden Design</a></h3>
+									<p>
+										Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the 's standard dummy.
+									</p>
+									<a href="#!" class="btn btn-text mt-15">Read More</a>
+								</div>
+							</div></div><div class="owl-item" style="width: 350px; margin-right: 30px;"><div class="service_box img-scale">
+								<figure>
+									<img src="fontawesome-webfont_files/img_5.jpg" alt="">
+								</figure>
+								<div class="relative_box">
+									
+									<h3><a href="#!">Gutter Repair</a></h3>
+									<p>
+										Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the 's standard dummy.
+									</p>
+									<a href="#!" class="btn btn-text mt-15">Read More</a>
+								</div>
+							</div></div><div class="owl-item" style="width: 350px; margin-right: 30px;"><div class="service_box img-scale">
+								<figure>
+									<img src="fontawesome-webfont_files/img_6.jpg" alt="">
+								</figure>
+								<div class="relative_box">
+									
+									<h3><a href="#!">Lawn Care</a></h3>
+									<p>
+										Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the 's standard dummy.
+									</p>
+									<a href="#!" class="btn btn-text mt-15">Read More</a>
+								</div>
+							</div></div><div class="owl-item cloned" style="width: 350px; margin-right: 30px;"><div class="service_box img-scale">
+								<figure>
+									<img src="fontawesome-webfont_files/img_1.jpg" alt="">
+								</figure>
+								<div class="relative_box">								
+									<h3><a href="#">Tree Planting</a></h3>
+									<p>
+										Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the 's standard dummy.
+									</p>
+									<a href="#!" class="btn btn-text mt-15">Read More</a>
+								</div>
+							</div></div><div class="owl-item cloned" style="width: 350px; margin-right: 30px;"><div class="service_box img-scale">
+								<figure>
+									<img src="fontawesome-webfont_files/img_2.jpg" alt="">
+								</figure>
+								<div class="relative_box">
+									
+									<h3><a href="#!">Garden Care</a></h3>
+									<p>
+										Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the 's standard dummy.
+									</p>
+									<a href="#!" class="btn btn-text mt-15">Read More</a>
+								</div>
+							</div></div><div class="owl-item cloned" style="width: 350px; margin-right: 30px;"><div class="service_box img-scale">
+								<figure>
+									<img src="fontawesome-webfont_files/img_3.jpg" alt="">
+								</figure>
+								<div class="relative_box">
+									
+									<h3><a href="#!">Watering Garden</a></h3>
+									<p>
+										Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the 's standard dummy.
+									</p>
+									<a href="#!" class="btn btn-text mt-15">Read More</a>
+								</div>
+							</div></div></div></div><div class="owl-controls"><div class="owl-nav"><div class="owl-prev" style=""><i class="ion-ios-arrow-back"></i></div><div class="owl-next" style=""><i class="ion-ios-arrow-forward"></i></div></div><div style="display: none;" class="owl-dots"></div></div></div>
+					</div>
+				</div>
+
+
+			</div>
+		</section>
+		<!-- Service_Section_End -->
+
+		<!-- Team_Section -->
+		<section class="padding ptb-xs-40 team_bg">
+			<div class="container">
+				<div class="row mb-60 mb-xs-30 light-color">
+					<div class="col-md-6">
+						<div class="section_heading left_line mb-xs-30">
+							<h2><span>Our</span> Team</h2>
+						</div>
+					</div>
+					<div class="col-md-6">
+						<div class="section_heading left_line">
+							<p>
+								Lorem Ipsum is simply dummy text of the printing and typesetting
+ industry. Lorem Ipsum has been the 's standard dummy text.
+							</p>
+						</div>
+					</div>
+				</div>
+
+				<div class="row">
+					<div class="col-lg-3 col-md-6 text-center mb-sm-30 mb-xs-30">
+						<div class="team_iteam">
+							<div class="team_picher">
+								<img src="fontawesome-webfont_files/01.jpg" alt="">
+								<div class="social_hover d-flex align-items-center">
+									<ul>
+										<li>
+											<a href="#"><i class="ion-social-facebook-outline"></i></a>
+										</li>
+										<li>
+											<a href="#"><i class="ion-social-twitter-outline"></i></a>
+										</li>
+										<li>
+											<a href="#"><i class="ion-social-googleplus-outline"></i></a>
+										</li>
+									</ul>
+								</div>
+							</div>
+							<div class="team_detail">
+								<h4>Bread Mccullum</h4>
+								<span>Gardener</span>
+								<p class="mt-15">
+									Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been.
+								</p>
+
+							</div>
+						</div>
+					</div>
+
+					<div class="col-lg-3 col-md-6 text-center mb-sm-30 mb-xs-30">
+						<div class="team_iteam">
+							<div class="team_picher">
+								<img src="fontawesome-webfont_files/02.jpg" alt="">
+								<div class="social_hover d-flex align-items-center">
+									<ul>
+										<li>
+											<a href="#"><i class="ion-social-facebook-outline"></i></a>
+										</li>
+										<li>
+											<a href="#"><i class="ion-social-twitter-outline"></i></a>
+										</li>
+										<li>
+											<a href="#"><i class="ion-social-googleplus-outline"></i></a>
+										</li>
+									</ul>
+								</div>
+							</div>
+							<div class="team_detail">
+								<h4>Bread Mccullum</h4>
+								<span>Gardener</span>
+								<p class="mt-15">
+									Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been.
+								</p>
+
+							</div>
+						</div>
+					</div>
+
+					<div class="col-lg-3 col-md-6 text-center mb-xs-30">
+						<div class="team_iteam">
+							<div class="team_picher">
+								<img src="fontawesome-webfont_files/03.jpg" alt="">
+								<div class="social_hover d-flex align-items-center">
+									<ul>
+										<li>
+											<a href="#"><i class="ion-social-facebook-outline"></i></a>
+										</li>
+										<li>
+											<a href="#"><i class="ion-social-twitter-outline"></i></a>
+										</li>
+										<li>
+											<a href="#"><i class="ion-social-googleplus-outline"></i></a>
+										</li>
+									</ul>
+								</div>
+							</div>
+							<div class="team_detail">
+								<h4>Bread Mccullum</h4>
+								<span>Gardener</span>
+								<p class="mt-15">
+									Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been.
+								</p>
+
+							</div>
+						</div>
+					</div>
+
+					<div class="col-lg-3 col-md-6 text-center">
+						<div class="team_iteam">
+							<div class="team_picher">
+								<img src="fontawesome-webfont_files/04.jpg" alt="">
+								<div class="social_hover d-flex align-items-center">
+									<ul>
+										<li>
+											<a href="#"><i class="ion-social-facebook-outline"></i></a>
+										</li>
+										<li>
+											<a href="#"><i class="ion-social-twitter-outline"></i></a>
+										</li>
+										<li>
+											<a href="#"><i class="ion-social-googleplus-outline"></i></a>
+										</li>
+									</ul>
+								</div>
+							</div>
+							<div class="team_detail">
+								<h4>Bread Mccullum</h4>
+								<span>Gardener</span>
+								<p class="mt-15">
+									Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been.
+								</p>
+
+							</div>
+						</div>
+					</div>
+
+				</div>
+
+			</div>
+		</section>
+		<!-- Team_Section_End -->
+
+		<!-- Project -->
+		<section id="work" class="padding ptb-xs-40 gray-bg">
+			<div class="container">
+				<div class="row mb-60 mb-xs-30">
+					<div class="col-md-6">
+						<div class="section_heading left_line mb-xs-30">
+							<h2><span>Our</span> Project</h2>
+						</div>
+					</div>
+					<div class="col-md-6">
+						<div class="section_heading left_line">
+							<p>
+								Lorem Ipsum is simply dummy text of the printing and typesetting
+ industry. Lorem Ipsum has been the 's standard dummy text.
+							</p>
+						</div>
+					</div>
+				</div>
+				<!-- work Filter -->
+				<div class="row">
+					<div class="col-sm-12">
+						<ul class="container-filter categories-filter">
+							<li>
+								<a class="categories active" data-filter="*">All</a>
+							</li>
+							<li>
+								<a class="categories" data-filter=".branding">Branding</a>
+							</li>
+							<li>
+								<a class="categories" data-filter=".design">Design</a>
+							</li>
+							<li>
+								<a class="categories" data-filter=".photo">Photo</a>
+							</li>
+							<li>
+								<a class="categories" data-filter=".coffee">coffee</a>
+							</li>
+						</ul>
+					</div>
+				</div>
+				<!-- End work Filter -->
+				<div class="row container-masonry nf-col-4" style="position: relative; height: 502.45px;">
+
+					<div class="nf-item w2x branding coffee spacing" style="position: absolute; left: 0%; top: 0px;">
+						<div class="item-box">
+							<a href="http://theembazaar.com/demo/themejio/florona/assets/images/portfolio3/1.jpg" class="fancylight" data-fancybox-group="light"> <img alt="1" src="fontawesome-webfont_files/1_002.jpg" class="item-container"> </a>
+							<div class="link-zoom">
+								<a href="http://theembazaar.com/demo/themejio/florona/portfolio-single.html" class="project_links"> <i class="fa fa-link"> </i> </a>
+								<a href="http://theembazaar.com/demo/themejio/florona/assets/images/portfolio3/1.jpg" class="fancylight popup-btn" data-fancybox-group="light"> <i class="fa fa-search-plus"></i> </a>
+							</div>
+
+						</div>
+					</div>
+
+					<div class="nf-item grid-sizer photo spacing" style="position: absolute; left: 50%; top: 0px;">
+						<div class="item-box">
+							<a> <img alt="1" src="fontawesome-webfont_files/2.jpg" class="item-container"> </a>
+							<div class="link-zoom">
+								<a href="http://theembazaar.com/demo/themejio/florona/portfolio-single.html" class="project_links"> <i class="fa fa-link"> </i> </a>
+								<a href="http://theembazaar.com/demo/themejio/florona/assets/images/portfolio3/2.jpg" class="fancylight popup-btn" data-fancybox-group="light"> <i class="fa fa-search-plus"></i> </a>
+							</div>
+
+						</div>
+					</div>
+
+					<div class="nf-item branding photo spacing" style="position: absolute; left: 75%; top: 0px;">
+						<div class="item-box">
+							<a> <img alt="1" src="fontawesome-webfont_files/3.jpg" class="item-container"> </a>
+							<div class="link-zoom">
+								<a href="http://theembazaar.com/demo/themejio/florona/portfolio-single.html" class="project_links"> <i class="fa fa-link"> </i> </a>
+								<a href="http://theembazaar.com/demo/themejio/florona/assets/images/portfolio3/3.jpg" class="fancylight popup-btn" data-fancybox-group="light"> <i class="fa fa-search-plus"></i> </a>
+							</div>
+
+						</div>
+					</div>
+
+					<div class="nf-item design spacing" style="position: absolute; left: 50%; top: 250px;">
+						<div class="item-box">
+							<a> <img alt="1" src="fontawesome-webfont_files/4.jpg" class="item-container"> </a>
+							<div class="link-zoom">
+								<a href="http://theembazaar.com/demo/themejio/florona/portfolio-single.html" class="project_links"> <i class="fa fa-link"> </i> </a>
+								<a href="http://theembazaar.com/demo/themejio/florona/assets/images/portfolio3/4.jpg" class="fancylight popup-btn" data-fancybox-group="light"> <i class="fa fa-search-plus"></i> </a>
+							</div>
+
+						</div>
+					</div>
+
+					<div class="nf-item photo spacing" style="position: absolute; left: 75%; top: 250px;">
+						<div class="item-box">
+							<a> <img alt="1" src="fontawesome-webfont_files/5.jpg" class="item-container"> </a>
+							<div class="link-zoom">
+								<a href="http://theembazaar.com/demo/themejio/florona/portfolio-single.html" class="project_links"> <i class="fa fa-link"> </i> </a>
+								<a href="http://theembazaar.com/demo/themejio/florona/assets/images/portfolio3/5.jpg" class="fancylight popup-btn" data-fancybox-group="light"> <i class="fa fa-search-plus"></i> </a>
+							</div>
+
+						</div>
+					</div>
+
+				</div>
+
+			</div>
+		</section>
+
+		<!-- Project_End -->
+
+		<!-- Testimonial_Section -->
+		<section class="padding ptb-xs-40 testimonial_bg light-color">
+			<div class="container">
+				<div class="row mb-60 mb-xs-30">
+					<div class="col-md-6">
+						<div class="section_heading left_line mb-xs-30">
+							<h2><span>Our</span> Testimonial</h2>
+						</div>
+					</div>
+					<div class="col-md-6">
+						<div class="section_heading left_line">
+							<p>
+								Lorem Ipsum is simply dummy text of the printing and typesetting
+ industry. Lorem Ipsum has been the 's standard dummy text.
+							</p>
+						</div>
+					</div>
+				</div>
+
+				<div class="row">
+					<div class="col-md-10 offset-md-1">
+						<div id="client_say" class="testimonial_slider owl-carousel owl-theme owl-center owl-loaded">
+							
+
+							
+
+						<div class="owl-stage-outer"><div class="owl-stage" style="transition: all 0.25s ease 0s; width: 5580px; transform: translate3d(-2790px, 0px, 0px);"><div class="owl-item cloned" style="width: 920px; margin-right: 10px;"><div class="item_saying">
+								<div class="color_box">
+									<p>
+										Lorem Ipsum is simply dummy text of the printing and 
+typesetting industry. Lorem Ipsum has been the 's standard dummy text. 
+Lorem Ipsum is simply dummy text of the printing and typesetting 
+industry. Lorem Ipsum has been the 's standard dummy text.
+									</p>
+								</div>
+								<div class="discretion_saying">
+									<figure>
+										<img src="fontawesome-webfont_files/1.jpg" alt="">
+									</figure>
+									<h3>Jhonathan Smith</h3>
+									<span>CEO</span>
+								</div>
+							</div></div><div class="owl-item cloned" style="width: 920px; margin-right: 10px;"><div class="item_saying">
+								<div class="color_box">
+									<p>
+										Lorem Ipsum is simply dummy text of the printing and 
+typesetting industry. Lorem Ipsum has been the 's standard dummy text. 
+Lorem Ipsum is simply dummy text of the printing and typesetting 
+industry. Lorem Ipsum has been the 's standard dummy text.
+									</p>
+								</div>
+								<div class="discretion_saying">
+									<figure>
+										<img src="fontawesome-webfont_files/1.jpg" alt="">
+									</figure>
+									<h3>Jhonathan Smith</h3>
+									<span>CEO</span>
+								</div>
+							</div></div><div class="owl-item" style="width: 920px; margin-right: 10px;"><div class="item_saying">
+								<div class="color_box">
+									<p>
+										Lorem Ipsum is simply dummy text of the printing and 
+typesetting industry. Lorem Ipsum has been the 's standard dummy text. 
+Lorem Ipsum is simply dummy text of the printing and typesetting 
+industry. Lorem Ipsum has been the 's standard dummy text.
+									</p>
+								</div>
+								<div class="discretion_saying">
+									<figure>
+										<img src="fontawesome-webfont_files/1.jpg" alt="">
+									</figure>
+									<h3>Jhonathan Smith</h3>
+									<span>CEO</span>
+								</div>
+							</div></div><div class="owl-item active center" style="width: 920px; margin-right: 10px;"><div class="item_saying">
+								<div class="color_box">
+									<p>
+										Lorem Ipsum is simply dummy text of the printing and 
+typesetting industry. Lorem Ipsum has been the 's standard dummy text. 
+Lorem Ipsum is simply dummy text of the printing and typesetting 
+industry. Lorem Ipsum has been the 's standard dummy text.
+									</p>
+								</div>
+								<div class="discretion_saying">
+									<figure>
+										<img src="fontawesome-webfont_files/1.jpg" alt="">
+									</figure>
+									<h3>Jhonathan Smith</h3>
+									<span>CEO</span>
+								</div>
+							</div></div><div class="owl-item cloned" style="width: 920px; margin-right: 10px;"><div class="item_saying">
+								<div class="color_box">
+									<p>
+										Lorem Ipsum is simply dummy text of the printing and 
+typesetting industry. Lorem Ipsum has been the 's standard dummy text. 
+Lorem Ipsum is simply dummy text of the printing and typesetting 
+industry. Lorem Ipsum has been the 's standard dummy text.
+									</p>
+								</div>
+								<div class="discretion_saying">
+									<figure>
+										<img src="fontawesome-webfont_files/1.jpg" alt="">
+									</figure>
+									<h3>Jhonathan Smith</h3>
+									<span>CEO</span>
+								</div>
+							</div></div><div class="owl-item cloned" style="width: 920px; margin-right: 10px;"><div class="item_saying">
+								<div class="color_box">
+									<p>
+										Lorem Ipsum is simply dummy text of the printing and 
+typesetting industry. Lorem Ipsum has been the 's standard dummy text. 
+Lorem Ipsum is simply dummy text of the printing and typesetting 
+industry. Lorem Ipsum has been the 's standard dummy text.
+									</p>
+								</div>
+								<div class="discretion_saying">
+									<figure>
+										<img src="fontawesome-webfont_files/1.jpg" alt="">
+									</figure>
+									<h3>Jhonathan Smith</h3>
+									<span>CEO</span>
+								</div>
+							</div></div></div></div><div class="owl-controls"><div class="owl-nav"><div class="owl-prev" style="display: none;"><i class="ion-ios-arrow-back"></i></div><div class="owl-next" style="display: none;"><i class="ion-ios-arrow-forward"></i></div></div><div style="" class="owl-dots"><div class="owl-dot"><span></span></div><div class="owl-dot active"><span></span></div></div></div></div>
+					</div>
+				</div>
+
+			</div>
+		</section>
+		<!-- Testimonial_Section_End -->
+
+		<!--Blog Section -->
+		<section id="blog_section" class="padding ptb-xs-40">
+			<div class="container">
+				<div class="row mb-60 mb-xs-30">
+					<div class="col-md-6">
+						<div class="section_heading left_line mb-xs-30">
+							<h2><span>Our</span> Blog</h2>
+						</div>
+					</div>
+					<div class="col-md-6">
+						<div class="section_heading left_line">
+							<p>
+								Lorem Ipsum is simply dummy text of the printing and typesetting
+ industry. Lorem Ipsum has been the 's standard dummy text.
+							</p>
+						</div>
+					</div>
+				</div>
+
+				<div class="row">
+					<div class="col-lg-4">
+						<div class="latest-blog img-fluid">
+							<div class="top_post">
+								<figure>
+									<img src="fontawesome-webfont_files/home_blog1.jpg" alt="">
+								</figure>
+								<div class="post_detail">
+									<ul>
+										<li>
+											<a href="#!"><i class="ion-ios-person-outline"></i>Admin</a>
+										</li>
+										<li>
+											<a href="#!"><i class="ion-ios-calendar-outline"></i>28 Feb</a>
+										</li>
+										<li>
+											<a href="#!"><i class="ion-ios-chatbubble-outline"></i>66</a>
+										</li>
+									</ul>
+								</div>
+							</div>
+							<div class="post_title">
+								<h3><a href="#!">Awesome Blog Post</a></h3>
+								<p>
+									Lorem ipsum dolor sit amet, fusce adipiscing at sed aliquam 
+pellentesque eu, etiam in massa. Sagittis urna tellus augue montes .
+								</p>
+								<a href="#!" class="btn-link">Read More</a>
+							</div>
+						</div>
+					</div>
+
+					<div class="col-lg-4 mt-sm-30 mt-xs-30">
+						<div class="latest-blog img-fluid">
+							<div class="top_post">
+								<figure>
+									<img src="fontawesome-webfont_files/home_blog2.jpg" alt="">
+								</figure>
+								<div class="post_detail">
+									<ul>
+										<li>
+											<a href="#!"><i class="ion-ios-person-outline"></i>Admin</a>
+										</li>
+										<li>
+											<a href="#!"><i class="ion-ios-calendar-outline"></i>28 Feb</a>
+										</li>
+										<li>
+											<a href="#!"><i class="ion-ios-chatbubble-outline"></i>66</a>
+										</li>
+									</ul>
+								</div>
+							</div>
+							<div class="post_title">
+								<h3><a href="#!">Awesome Blog Post</a></h3>
+								<p>
+									Lorem ipsum dolor sit amet, fusce adipiscing at sed aliquam 
+pellentesque eu, etiam in massa. Sagittis urna tellus augue montes .
+								</p>
+								<a href="#!" class="btn-link">Read More</a>
+							</div>
+						</div>
+					</div>
+
+					<div class="col-lg-4 mt-sm-30 mt-xs-30">
+						<div class="latest-blog img-fluid">
+							<div class="top_post">
+								<figure>
+									<img src="fontawesome-webfont_files/home_blog3.jpg" alt="">
+								</figure>
+								<div class="post_detail">
+									<ul>
+										<li>
+											<a href="#!"><i class="ion-ios-person-outline"></i>Admin</a>
+										</li>
+										<li>
+											<a href="#!"><i class="ion-ios-calendar-outline"></i>28 Feb</a>
+										</li>
+										<li>
+											<a href="#!"><i class="ion-ios-chatbubble-outline"></i>66</a>
+										</li>
+									</ul>
+								</div>
+							</div>
+							<div class="post_title">
+								<h3><a href="#!">Awesome Blog Post</a></h3>
+								<p>
+									Lorem ipsum dolor sit amet, fusce adipiscing at sed aliquam 
+pellentesque eu, etiam in massa. Sagittis urna tellus augue montes .
+								</p>
+								<a href="#!" class="btn-link">Read More</a>
+							</div>
+						</div>
+					</div>
+
+				</div>
+
+			</div>
+		</section>
+		<!--Blog Section End-->
+
+		<!-- FOOTER -->
+		<footer id="footer">
+			<div id="footer-widgets" class="container style-1">
+				<div class="row">
+					<div class="col-lg-4">
+						<div class="widget widget_text">
+							<h2 class="widget-title"><span>ABOUT US</span></h2>
+							<div class="textwidget">
+								<a href="http://theembazaar.com/demo/themejio/florona/index.html" class="footer-logo"> <img src="fontawesome-webfont_files/logo.png" alt=""> </a>
+								<p>
+									Aenean suscipit eget mi act fermentum phasellus vulputate 
+turpis tincidunt. Aenean suscipit eget. Aenean suscipit eget mi act 
+fermentum phasellus vulputate turpis tincidunt. Aenean suscipit ege  
+Aenean suscipit eget mi act fermentum phasellus.
+								</p>
+							</div>
+						</div>
+					</div>
+					<div class="col-lg-4">
+						<div class="widget widget_links">
+							<h2 class="widget-title"><span>COMPANY LINKS</span></h2>
+							<ul class="wprt-links clearfix col2">
+								<li>
+									<a href="#">History</a>
+								</li>
+								<li>
+									<a href="#">Services</a>
+								</li>
+								<li>
+									<a href="#">Team &amp; Awards</a>
+								</li>
+								<li>
+									<a href="#">Delivery Methods</a>
+								</li>
+								<li>
+									<a href="#">Community</a>
+								</li>
+								<li>
+									<a href="#">Safety</a>
+								</li>
+								<li>
+									<a href="#">News &amp; Events</a>
+								</li>
+								<li>
+									<a href="#">Sustainability</a>
+								</li>
+								<li>
+									<a href="#">FAQ</a>
+								</li>
+								<li>
+									<a href="#">Portfolio</a>
+								</li>
+								<li>
+									<a href="#">Contact Us</a>
+								</li>
+								<li>
+									<a href="#">Shop</a>
+								</li>
+							</ul>
+						</div>
+					</div>
+					<div class="col-lg-4">
+						<div class="widget widget_information">
+							<h2 class="widget-title"><span>CONTACT INFO</span></h2>
+							<ul>
+								<li class="address clearfix">
+									<span class="hl">Address:</span>
+									<span class="text">123 Main Street, St. NW Ste, 1 Washington, DC,USA.</span>
+								</li>
+								<li class="phone clearfix">
+									<span class="hl">Phone:</span>
+									<span class="text">+56 (0) 012 345 6789</span>
+								</li>
+								<li class="email clearfix">
+									<span class="hl">E-mail:</span>
+									<span class="text">business@support.com</span>
+								</li>
+							</ul>
+						</div>
+						<div class="widget widget_socials">
+							<div class="socials">
+								<a target="_blank" href="#"><i class="fa fa-twitter"></i></a>
+								<a target="_blank" href="#"><i class="fa fa-facebook"></i></a>
+								<a target="_blank" href="#"><i class="fa fa-google-plus"></i></a>
+								<a target="_blank" href="#"><i class="fa fa-pinterest"></i></a>
+								<a target="_blank" href="#"><i class="fa fa-dribbble"></i></a>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div id="bottom" class="clearfix style-1">
+				<div id="bottom-bar-inner" class="wprt-container">
+					<div class="bottom-bar-inner-wrap">
+						<div class="bottom-bar-content">
+							<div id="copyright">
+								© 2018 <a><b>Garden HTML5 Template</b></a>. All Rights Reserved.
+								
+							</div>
+							<!-- /#copyright -->
+						</div>
+						<!-- /.bottom-bar-content -->
+						<div class="bottom-bar-menu">
+							<ul class="bottom-nav">
+								<li>
+									<a href="#/">HISTORY</a>
+								</li>
+								<li>
+									<a href="#/">FAQ</a>
+								</li>
+								<li>
+									<a href="#/">EVENTS</a>
+								</li>
+							</ul>
+						</div>
+						<!-- /.bottom-bar-menu -->
+					</div>
+				</div>
+			</div>
+		</footer>
+		<!-- END FOOTER -->
+
+		<script type="text/javascript" src="fontawesome-webfont_files/jquery.js"></script>
+		<script src="fontawesome-webfont_files/jquery-ui.js" type="text/javascript"></script>
+		<script type="text/javascript" src="fontawesome-webfont_files/tether.js"></script>
+		<script type="text/javascript" src="fontawesome-webfont_files/bootstrap.js"></script>
+		<script type="text/javascript" src="fontawesome-webfont_files/owl.js"></script>
+		<!-- fancybox Js -->
+		<script src="fontawesome-webfont_files/jquery_006.js" type="text/javascript"></script>
+		<script src="fontawesome-webfont_files/jquery_007.js" type="text/javascript"></script>
+		<!-- masonry,isotope Effect Js -->
+		<script src="fontawesome-webfont_files/imagesloaded.js" type="text/javascript"></script>
+		<script src="fontawesome-webfont_files/isotope.js" type="text/javascript"></script>
+		<script src="fontawesome-webfont_files/masonry.js" type="text/javascript"></script>
+		<script src="fontawesome-webfont_files/jquery_004.js" type="text/javascript"></script>
+		<!-- revolution Js -->
+		<script type="text/javascript" src="fontawesome-webfont_files/jquery_002.js"></script>
+		<script type="text/javascript" src="fontawesome-webfont_files/jquery_003.js"></script>
+		<script type="text/javascript" src="fontawesome-webfont_files/revolution_002.js"></script>
+		<script type="text/javascript" src="fontawesome-webfont_files/revolution_003.js"></script>
+		<script type="text/javascript" src="fontawesome-webfont_files/revolution.js"></script>
+		<script type="text/javascript" src="fontawesome-webfont_files/revolution_004.js"></script>
+		<script type="text/javascript" src="fontawesome-webfont_files/jquery_005.js"></script>
+		<!-- Mail Function Js -->
+		<script src="fontawesome-webfont_files/validation.js" type="text/javascript"></script>
+		<!-- Compiled and minified JavaScript -->
+		<script src="fontawesome-webfont_files/jquery_004.js" type="text/javascript"></script>
+		<script src="fontawesome-webfont_files/custom.js" type="text/javascript"></script>
+
+	
+
+<div id="style-switcher">
+  <a href="#" class="switcher-toggle open"> <span class="icon-switcher"><i class="fa fa-gear"></i></span></a>
+  <div class="style-switcher-wrap">
+    <ul class="switcher-style-list" id="switcher-theme-custom-color">
+ 
+      <li><a title="default" href="#" class="theme-skin-default"></a></li>   
+      <li><a title="red" href="#" class="theme-skin-red"></a></li>
+      <li><a title="steelblue" href="#" class="theme-skin-steelblue"></a></li>
+      <li><a title="yellow" href="#" class="theme-skin-yellow"></a></li>
+	
+    </ul>
+	 <!-- <h4 class="switcher-title">Ulimited Theme Skins:</h4>
+	  <ul class="switcher-style-list" id="custom-color">
+      <li><input type="text" id="colorpicker"><a title="green" href="#" class="theme-skin-green"></a></li>
+	   <a title="green" style="width:auto; margin-left:10px;" href="#" class="get-theme btnTheme btn-xs mt-0 activeTheme">Get Skin Css File</a>
+     
+    </ul> -->
+	
+	 <!-- <h4 class="switcher-title">Header Style:</h4>
+    <div id="header-style">
+      <a class="btnTheme activeTheme btn-xs mt-0 normal">Normal</a>
+      <a class="btnTheme diactiveTheme btn-xs mt-0 fixed">Fixed</a>
+    </div> -->
+	<!--<h4 class="switcher-title">Footer Style:</h4>
+    <div id="footer-style">
+      <a class="btnTheme activeTheme btn-xs mt-0 dark-footer">Dark</a>
+      <a class="btnTheme diactiveTheme btn-xs mt-0 lightfooter">Light</a>
+    </div>
+  
+   <h4 class="switcher-title">Background Color</h4>
+    <div id="switcher-bgcolor">
+      <a class="btnTheme activeTheme btn-xs mt-0 light" data-bgcolor-type="light">Light</a>
+      <a class="btnTheme diactiveTheme btn-xs mt-0 dark" data-bgcolor-type="dark">Dark</a>
+    </div>
+    <h4 class="switcher-title">Direction:</h4>
+    <div id="switcher-rtl">
+      <a class="btnTheme activeTheme ltr" data-direction-type="ltr">LTR</a>
+      <a class="btnTheme diactiveTheme btn-xs mt-0 rtl" data-direction-type="rtl">RTL</a>
+    </div>-->
+    <!-- <h4 class="switcher-title">Layout Style</h4>
+    <div id="switcher-layout-mode">
+      <a class="btnTheme activeTheme btn-xs mt-0 wide" data-layout-mode="wide">Wide</a>
+      <a class="btnTheme diactiveTheme btn-xs mt-0 boxed" data-layout-mode="boxed">Boxed</a>
+    </div>
+    <h4 class="switcher-title">Background Patterns:</h4>
+    <ul class="switcher-style-list" id="switcher-boxed-layout-bg-pattern">
+      <li><a title="pattern-1" href="#" class="pattern-1"></a></li>
+      <li><a title="pattern-2" href="#" class="pattern-2"></a></li>
+      <li><a title="pattern-3" href="#" class="pattern-3"></a></li>
+      <li><a title="pattern-4" href="#" class="pattern-4"></a></li>
+      <li><a title="pattern-5" href="#" class="pattern-5"></a></li>
+      <li><a title="pattern-6" href="#" class="pattern-6"></a></li>
+      <li><a title="pattern-7" href="#" class="pattern-7"></a></li>
+      <li><a title="pattern-8" href="#" class="pattern-8"></a></li>
+      <li><a title="pattern-9" href="#" class="pattern-9"></a></li>
+   
+    </ul> -->
+	
+	
+    </div>
+
+<link href="fontawesome-webfont_files/themeoption.css" rel="stylesheet" type="text/css">
+<!-- <link href="theme-option/assets/css/colorpicker.css" rel="stylesheet" type="text/css">
+<link href="theme-option/assets/css/theme.less" rel="stylesheet" type="text/less">
+<script type="text/javascript" src="theme-option/assets/js/less.js"></script> 
+<script type="text/javascript" src="theme-option/assets/js/colorpicker.js"></script>  -->
+<script type="text/javascript" src="fontawesome-webfont_files/color-switcher.js"></script> 
+<!-- <script>
+$(window).ready(function(){
+		//$('#colorpicker').ColorPicker();
+		$('#colorpicker').ColorPicker({
+		onSubmit: function(hsb, hex, rgb, el) {
+			$(el).val(hex);
+			$(el).ColorPickerHide();
+		},
+		onBeforeShow: function () {
+			$(this).ColorPickerSetColor(this.value);
+		},
+		onChange: function (hsb, hex, rgb) {
+			$('#colorpicker').val(hex);
+			$('#colorpicker').css('backgroundColor', '#' + hex);
+			accentColorUpdate(hex);
+		}
+	})
+	})
+</script> -->
+</div></body></html>

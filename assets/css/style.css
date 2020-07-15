@@ -48,6 +48,7 @@ body {
 	font-size: 14px;
 	font-weight: 400;
 	font-family: 'Poppins', sans-serif;
+	
 }
 /*  Typography Style   ||-----------*/
 h1 {
@@ -11253,3 +11254,11 @@ body .width-100per {
     width: 100%;
 }
 
+
+
+
+/*custom css*/
+section.padding.ptb-xs-40 {
+    background: #111c07;
+    color: #fff;
+}
